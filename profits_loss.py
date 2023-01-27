@@ -6,7 +6,7 @@ import write
 def profit_loss():
    """
    - This function calculates net profit deficit based on net profits over multiple days
-   - No parameters required
+   - No parameters required.
    """
 
    # Declare profit_deficit1-5 as global variables
