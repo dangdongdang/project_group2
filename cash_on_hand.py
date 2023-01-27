@@ -5,8 +5,8 @@ import write
 # Define function to calculate cash deficit
 def cash_hand():
     """
-    - This function calculates cash on hand deficit based on cash amounts over multiple days
-    - No parameters required
+    - This function calculates cash on hand deficit based on cash amounts over multiple days.
+    - No parameters required.
     """
 
     # Declare cash_deficit1-5 as global variables
