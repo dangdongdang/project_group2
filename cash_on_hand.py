@@ -1,7 +1,7 @@
 from pathlib import Path
 import csv
 
-# Define function to calculate cash_difference
+# Define function to calculate cash_
 def cash_hand():
     """
     - This function calculates cash on hanh_difference based on cash amounts over multiple days
